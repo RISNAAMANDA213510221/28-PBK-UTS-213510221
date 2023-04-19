@@ -211,7 +211,7 @@ export default {
   }
 
   body {
-    background-image: url('Sign-in.png');
+    background-image: url('https://drive.google.com/file/d/1qz2c2xmYf9W_RjK6Kj1bFzGaJ77yz8eT/view');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:none;
