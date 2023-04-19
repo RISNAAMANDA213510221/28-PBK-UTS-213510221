@@ -211,7 +211,7 @@ export default {
   }
 
   body {
-    background-image: url('https://drive.google.com/file/d/1qz2c2xmYf9W_RjK6Kj1bFzGaJ77yz8eT/view');
+    background-image: url('https://github.com/RISNAAMANDA213510221/28-PBK-UTS-213510221/blob/master/src/Sign-In.png?raw=true');
     background-repeat: no-repeat;
     background-size: cover;
     background-position:none;
